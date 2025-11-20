@@ -57,7 +57,7 @@ If your team is ready, you can:
 
 You do not have to reach Tier 3 to have a successful Hackathon. A solid Tier 1 and Tier 2 solution is more useful than a half finished complicated idea.
 
-## How Teams Will Work 🤝
+## How Teams Will Work
 
 You will work in mixed teams of Software and Data.
 
@@ -112,7 +112,7 @@ Awards will include:
 
 Each member of the overall winning team gets a £50 Amazon voucher.
 
-## What You Should Aim For 🎯
+## What You Should Aim For
 
 By the end of the Hackathon, a strong team will be able to:
 
