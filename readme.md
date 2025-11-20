@@ -1,5 +1,5 @@
 # The Data Drop  
-Turning messy data into real decisions 📊💻
+Turning messy data into real decisions
 
 Welcome, developers and data folk. You have been drafted into a cross functional product team for a very important client. They are sitting on a mountain of data and want answers, insight and useful tools, not just pretty charts.
 
@@ -7,9 +7,9 @@ Your job for the day:
 
 - Take a real world style dataset  
 - Clean it, explore it  
-- Build something people can actually use
+- Build something people can actually use  
 
-That could be a dashboard, a small app, an API, or even a simple predictive model if you are feeling brave.
+That could be a dashboard, a small app, an API, or a simple scenario explorer.
 
 You do not need to be an expert. You do need to be curious, collaborative and ready to ship something by the end of the day.
 
@@ -23,7 +23,7 @@ On the day you will be given:
 Think things like customer behaviour, performance metrics or operational data. Your job is to turn raw data into insight and then into something your client could use in the real world.
 
 
-## Challenge Tiers 🏆
+## Challenge Tiers
 
 ### Tier 1: Clean and Explain
 
@@ -39,18 +39,27 @@ Think things like customer behaviour, performance metrics or operational data. Y
   - A small web app that lets a user explore key metrics  
   - An API that serves cleaned, useful data to other tools  
 
-### Tier 3 (Optional): Predict and Deploy
+### Tier 3 (Optional): Scenarios and Recommendations
 
-If your team is ready, go further. For example:
+Tier 3 is about sharpening the story rather than adding heavy data science.
 
-- Train a simple predictive model (forecasting, classification or recommendations)  
-- Wire it into your app, dashboard or API so that users can try it out  
+If your team is ready, you can:
 
-You do not have to hit Tier 3 to have a successful Hackathon. A solid Tier 1 and Tier 2 solution is more useful than a half finished model.
+- Pick two or three key decision questions from the client perspective, for example:
+  - Which segment should we target with a new offer  
+  - Where might we need to review a policy or product  
+- Add simple “what if” or scenario views to your tool, such as:
+  - Filters or toggles that highlight a target or at risk group  
+  - Simple rules that flag customers or records that meet certain conditions  
+- Produce a short, clear set of recommendations that explain:
+  - What you found  
+  - What you think the client should do next  
+
+You do not have to reach Tier 3 to have a successful Hackathon. A solid Tier 1 and Tier 2 solution is more useful than a half finished complicated idea.
 
 ## How Teams Will Work 🤝
 
-You will work in mixed teams of Software and Data apprentices at different levels.
+You will work in mixed teams of Software and Data.
 
 Roughly:
 
@@ -60,9 +69,10 @@ Roughly:
 
 You will decide as a team how to split the work. The goal is not for one person to do everything, it is for the team to ship something together.
 
+
 ## Tools and Tech 🛠️
 
-Bring:
+You need:
 
 - Your laptop and charger. That is it.  
 
@@ -75,7 +85,7 @@ Use what you already know, for example:
 
 You are not being judged on your exact tech stack. The focus is on whether you solved the problem in a sensible way and can explain your choices.
 
-## Support During The Day 💬
+## Support During The Day
 
 Facilitators will be around to:
 
@@ -85,9 +95,9 @@ Facilitators will be around to:
 
 They will not write your solution for you, but they will help you move forwards.
 
-## Showcase, Judging and Prizes 🎤
+## Showcase, Judging and Prizes
 
-At the end of the day each team will give a short showcase covering:
+At the end of the day each team will give a showcase covering:
 
 - What was the problem  
 - What you built  
