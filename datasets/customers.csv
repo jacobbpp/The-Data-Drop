@@ -1,0 +1,401 @@
+customer_id,first_name,last_name,age,region,segment,join_date,marketing_channel
+C001,James,Khan,36,North,Family,2019-12-23,Branch
+C002,Priya,Wilson,35,South,Professional,2023-09-15,Online Ads
+C003,Aisha,Taylor,37,Midlands,Family,2020-02-23,Online Ads
+C004,Ethan,Moore,52,North,Professional,2023-03-31,Online Ads
+C005,Jacob,Roberts,30,South,Family,2019-11-23,Social
+C006,Zara,Evans,33,London,Professional,2021-12-29,Referral
+C007,Priya,Moore,43,South,Family,2021-06-18,Referral
+C008,Daniel,Davies,53,London,Family,2022-07-12,Online Ads
+C009,Hannah,Williams,39,North,Professional,2023-06-24,Branch
+C010,Emily,Edwards,30,London,Professional,2023-09-26,Branch
+C011,Jacob,Thompson,23,London,Professional,2021-12-28,Referral
+C012,Noah,Wright,22,North,Student,2024-09-10,Social
+C013,Noah,Edwards,38,North,Family,2024-12-12,Social
+C014,Leo,Khan,22,Midlands,Student,2019-11-19,Online Ads
+C015,Priya,Green,58,North,Family,2024-12-01,Social
+C016,Amira,Green,47,South,Family,2023-03-10,Branch
+C017,James,Davies,110,Midlands,Professional,2019-08-30,Online Ads
+C018,Grace,Patel,54,Midlands,Professional,2024-04-20,Online Ads
+C019,Lucas,Wilson,23,South,Student,2019-08-10,Referral
+C020,James,Smith,29,Midlands,Professional,2024-01-12,Online Ads
+C021,Hannah,Davies,80,North,Retired,2019-07-27,Referral
+C022,Aisha,Patel,60,London,Retired,2023-07-01,Social
+C023,Aisha,Walker,52,London,Professional,2024-06-16,Online Ads
+C024,Daniel,Hall,48,North,Family,2024-08-21,Social
+C025,Daniel,Edwards,19,North,Student,2020-05-06,Social
+C026,Maya,Moore,23,North,Student,2022-07-10,Online Ads
+C027,Noah,Thompson,,London,Professional,2020-02-14,Online Ads
+C028,Sophie,Williams,83,London,Retired,2023-11-30,Social
+C029,Jacob,Edwards,22,London,Student,2020-07-04,Online Ads
+C030,Mason,Williams,44,South,Professional,2021-12-17,Branch
+C031,Daniel,Patel,,London,Family,2020-06-19,Referral
+C032,Hannah,Green,35,South,Family,2020-09-02,Branch
+C033,Maya,Green,22,North,Student,2019-06-13,Social
+C034,Liam,Brown,49,South,Professional,2021-08-27,Social
+C035,Oliver,Wright,23,South,Student,2021-10-13,Online Ads
+C036,James,Walker,62,London,Retired,2022-12-03,Online Ads
+C037,Liam,Davies,23,North,Student,2022-02-17,Branch
+C038,Mason,Johnson,63,North,Retired,2021-12-23,Online Ads
+C039,Ethan,Johnson,30,London,Professional,2021-11-09,Online Ads
+C040,Chloe,Green,40,London,Family,2022-09-14,Referral
+C041,James,Thomas,43,South,Professional,2020-06-05,Online Ads
+C042,Zara,Taylor,28,Midlands,Family,2022-08-12,Branch
+C043,Amira,Edwards,33,London,Professional,2022-10-04,Online Ads
+C044,Liam,Thomas,24,North,Professional,2019-10-26,Branch
+C045,Maya,Wilson,53,Midlands,Family,2019-01-23,Social
+C046,James,Wright,52,London,Professional,2020-05-12,Branch
+C047,Chloe,Green,56,London,Family,2024-08-29,Branch
+C048,Hannah,Taylor,44,Midlands,Family,2022-02-09,Referral
+C049,Liam,Evans,38,South,Professional,2019-11-27,Online Ads
+C050,Emily,Wilson,25,Midlands,Student,2023-09-17,Branch
+C051,Aisha,Hall,45,North,Professional,2023-09-13,Branch
+C052,Jacob,Davies,,Midlands,Professional,2022-10-08,Referral
+C053,Oliver,Thompson,,London,Retired,2023-06-02,Branch
+C054,Priya,Wright,18,Midlands,Student,2024-02-06,Online Ads
+C055,Zara,Evans,44,London,Family,2019-08-02,Social
+C056,Priya,Smith,40,London,Family,2021-09-04,Online Ads
+C057,Maya,Wilson,46,Midlands,Professional,2020-04-14,Referral
+C058,Noah,Brown,52,London,Family,2019-11-08,Branch
+C059,Liam,Brown,35,Midlands,Family,2019-06-18,Online Ads
+C060,Ethan,Patel,49,Midlands,Professional,2023-01-23,Referral
+C061,Emily,Wright,22,South,Student,2024-06-03,Branch
+C062,Maya,Evans,28,North,Professional,2024-03-18,Branch
+C063,Grace,Khan,54,Midlands,Professional,2022-10-26,Online Ads
+C064,Sophie,Green,19,London,Student,2021-09-11,Referral
+C065,Leo,Thompson,42,North,Family,2023-02-20,Branch
+C066,Lucas,Green,40,South,Professional,2021-02-27,Online Ads
+C067,Oliver,Wilson,41,Midlands,Professional,2022-04-28,Online Ads
+C068,Aisha,Green,18,North,Student,2020-06-01,Referral
+C069,James,Khan,56,Midlands,Family,2021-10-31,Social
+C070,Priya,Walker,26,South,Professional,2022-05-29,Online Ads
+C071,Mason,Wright,42,London,Family,2023-12-19,Online Ads
+C072,Lucas,Thomas,34,North,Family,2021-05-14,Online Ads
+C073,Liam,Taylor,54,North,Family,2022-04-07,Online Ads
+C074,Noah,Thompson,22,North,Student,2021-03-21,Branch
+C075,Emily,Evans,38,North,Family,2022-03-28,Branch
+C076,Noah,Walker,70,South,Retired,2023-11-05,Referral
+C077,Aisha,Patel,24,South,Professional,2022-01-08,Branch
+C078,Oliver,White,40,Midlands,Professional,2024-07-07,Social
+C079,Lucas,Johnson,33,North,Professional,2022-03-26,Referral
+C080,Mason,Smith,43,Midland,Professional,2024-10-08,Social
+C081,Mason,Thompson,46,North,Professional,2023-12-16,Referral
+C082,Mason,Williams,77,Midlands,Retired,2021-09-07,Referral
+C083,Aisha,Green,30,North,Professional,2020-09-22,Branch
+C084,Chloe,Evans,53,Midlands,Professional,2023-04-21,Online Ads
+C085,Emily,Patel,49,London,Professional,2021-12-30,Social
+C086,Noah,Hall,37,South,Family,2022-09-23,Branch
+C087,Hannah,Johnson,62,London,Retired,2023-08-10,Online Ads
+C088,Zara,Walker,75,London,Retired,2019-06-01,Online Ads
+C089,Grace,Brown,5,Midlands,Retired,2023-08-07,Social
+C090,Priya,White,53,Midlands,Family,2024-12-25,Branch
+C091,Leo,Green,22,North,Student,2023-11-13,Social
+C092,James,Thompson,18,Midlands,Student,2022-04-16,Branch
+C093,Liam,Edwards,34,South,Professional,2023-04-16,Referral
+C094,Maya,Williams,12,South,Professional,2022-03-24,Referral
+C095,Hannah,Roberts,85,Midlands,Retired,2022-05-22,Online Ads
+C096,Leo,Brown,41,South,Professional,2023-06-10,Online Ads
+C097,Daniel,Moore,46,London,Family,2022-12-14,Online Ads
+C098,Sophie,Williams,30,London,Family,2023-02-03,Referral
+C099,Noah,Johnson,36,North,Family,2023-02-07,Branch
+C100,Oliver,Evans,85,London,Retired,2022-10-19,Social
+C101,Priya,Williams,53,North,Family,2023-02-07,Online Ads
+C102,Sophie,Green,22,Midlands,Student,2023-03-02,Online Ads
+C103,Aisha,Moore,84,South,Retired,2024-03-16,Social
+C104,Lucas,Brown,22,London,Student,2021-08-19,Social
+C105,Hannah,Roberts,54,South,Family,2023-08-27,Referral
+C106,Jacob,Wright,77,Midlands,Retired,2021-08-25,Social
+C107,Ethan,Green,56,South,Retired,2020-05-15,Social
+C108,Priya,Wilson,29,South,Family,2020-05-30,Referral
+C109,Mason,Wilson,42,London,Family,2019-01-12,Online Ads
+C110,Emily,Green,24,Noth,Professional,2021-09-01,Branch
+C111,Sophie,Smith,19,Midlands,Student,2023-01-22,Branch
+C112,Chloe,Davies,80,North,Retired,2022-05-20,Branch
+C113,Daniel,White,34,Midlands,Family,2019-10-29,Social
+C114,Emily,Patel,23,South,Student,2022-04-22,Branch
+C115,James,Brown,79,South,Retired,2023-10-28,Branch
+C116,Grace,Thompson,43,South,Professional,2023-03-14,Social
+C117,Leo,Patel,24,North,Student,2020-06-16,Branch
+C118,Mason,Green,45,North,Professional,2023-09-29,Social
+C119,Noah,Moore,55,North,Professional,2021-07-07,Social
+C120,Mason,Roberts,21,Midlands,Student,2019-04-18,Referral
+C121,Sophie,Khan,22,South,Student,2021-01-13,Social
+C122,Zara,Patel,18,South,Student,2023-03-21,Branch
+C123,Ethan,Thomas,33,London,Family,2019-07-23,Referral
+C124,Lucas,White,41,Midlands,Family,2023-10-27,Online Ads
+C125,Maya,White,37,Midlands,Professional,2019-02-01,Online Ads
+C126,Emily,Evans,54,North,Professional,2023-04-07,Branch
+C127,Mason,Roberts,18,London,Student,2019-11-15,Social
+C128,Maya,Walker,35,Midlands,Family,2020-12-04,Social
+C129,Ethan,Patel,50,North,Professional,2023-06-10,Social
+C130,Liam,Johnson,35,North,Family,2022-12-02,Branch
+C131,Emily,Davies,20,Midlands,Student,2019-11-05,Online Ads
+C132,Leo,Thompson,56,London,Family,2022-08-16,Social
+C133,Emily,Thompson,22,Midlands,Student,2022-12-12,Branch
+C134,Hannah,Smith,19,London,Student,2020-01-05,Referral
+C135,Hannah,Hall,30,London,Family,2021-02-10,Online Ads
+C136,Emily,Smith,44,London,Professional,2020-12-07,Online Ads
+C137,Hannah,Edwards,46,North,Professional,2022-10-17,Referral
+C138,Grace,Patel,47,South,Professional,2020-09-07,Online Ads
+C139,Emily,Roberts,48,South,Professional,2019-12-14,Online Ads
+C140,Grace,Williams,33,London,Family,2023-01-22,Online Ads
+C141,Amira,Johnson,62,Midlands,Retired,2022-04-26,Social
+C142,Mason,Edwards,20,Midlands,Student,2021-01-10,Social
+C143,Oliver,Thompson,21,Midlands,Student,2024-01-13,Online Ads
+C144,Leo,Wilson,51,London,Professional,2023-04-14,Branch
+C145,Oliver,Wilson,44,North,Family,2023-03-01,Branch
+C146,Chloe,Brown,40,London,Professional,2023-11-27,Online Ads
+C147,Hannah,Roberts,67,Midland,Retired,2019-12-01,Branch
+C148,James,Johnson,46,North,Family,2020-07-22,Referral
+C149,Jacob,Khan,61,North,Retired,2024-12-01,Branch
+C150,Liam,Thomas,25,Noth,Student,2024-08-09,Branch
+C151,Chloe,Hall,,North,Professional,2022-12-16,Online Ads
+C152,Priya,Edwards,71,North,Retired,2024-09-10,Branch
+C153,Leo,Smith,44,London,Family,2019-10-04,Online Ads
+C154,James,Hall,30,Midlands,Family,2020-12-18,Social
+C155,Leo,Taylor,,North,Family,2021-04-05,Online Ads
+C156,Daniel,Johnson,81,South,Retired,2021-02-21,Online Ads
+C157,Daniel,Johnson,50,London,Professional,2023-05-03,Online Ads
+C158,Leo,Roberts,80,South,Retired,2023-10-30,Referral
+C159,Mason,Thomas,41,North,Professional,2023-10-12,Online Ads
+C160,Hannah,Smith,55,London,Family,2019-08-23,Online Ads
+C161,Ethan,Edwards,29,South,Family,2023-11-30,Online Ads
+C162,Ethan,Roberts,32,South,Professional,2023-03-04,Branch
+C163,Emily,Edwards,40,Midlands,Professional,2021-02-01,Branch
+C164,Mason,Brown,51,Midlands,Professional,2024-07-04,Online Ads
+C165,Priya,Thompson,19,South,Student,2022-08-02,Referral
+C166,Mason,Green,33,Midlands,Professional,2020-12-14,Referral
+C167,James,Wilson,,North,Family,2023-02-20,Branch
+C168,Emily,Moore,67,North,Retired,2024-11-23,Branch
+C169,Maya,Patel,19,Midlands,Student,2022-11-12,Online Ads
+C170,Mason,Hall,24,London,Student,2020-05-23,Branch
+C171,Oliver,Johnson,85,North,Retired,2019-11-20,Online Ads
+C172,Mason,Evans,19,Midlands,Student,2020-09-23,Online Ads
+C173,Jacob,Johnson,29,South,Family,2021-12-20,Referral
+C174,Lucas,Moore,46,Midlands,Family,2021-09-30,Social
+C175,Noah,Thompson,25,North,Student,2022-10-25,Referral
+C176,Grace,Roberts,66,North,Retired,2021-09-17,Branch
+C177,Liam,Williams,24,Midlands,Student,2020-10-16,Social
+C178,Grace,Wilson,60,Midlands,Family,2024-07-30,Online Ads
+C179,Chloe,Thompson,66,Noth,Retired,2024-04-11,Online Ads
+C180,James,Wright,23,Midlands,Student,2023-06-29,Online Ads
+C181,Ethan,Green,51,Midlands,Professional,2020-05-01,Online Ads
+C182,Ethan,Johnson,37,Midlands,Family,2024-08-10,Online Ads
+C183,Grace,White,55,North,Professional,2022-07-28,Online Ads
+C184,Noah,Hall,54,London,Professional,2019-03-10,Branch
+C185,Lucas,Hall,24,London,Professional,2021-07-21,Referral
+C186,Oliver,Edwards,52,South,Family,2019-05-10,Branch
+C187,Amira,Khan,49,Midlands,Professional,2024-04-15,Social
+C188,Daniel,Williams,53,South,Professional,2020-12-10,Branch
+C189,Mason,Roberts,44,London,Family,2021-10-06,Online Ads
+C190,Noah,Thomas,59,South,Family,2022-01-25,Online Ads
+C191,Mason,Walker,66,Midlands,Retired,2022-04-04,Online Ads
+C192,Priya,Roberts,78,South,Retired,2022-01-15,Social
+C193,Emily,Brown,43,South,Family,2021-07-13,Referral
+C194,Lucas,Johnson,,North,Family,2020-10-08,Branch
+C195,Leo,White,46,London,Family,2020-01-02,Referral
+C196,Daniel,Taylor,25,London,Professional,2024-07-22,Online Ads
+C197,Noah,Smith,19,South,Student,2024-02-05,Social
+C198,Leo,Williams,61,Midlands,Retired,2024-02-23,Referral
+C199,Aisha,Johnson,40,South,Family,2023-07-19,Social
+C200,Priya,Walker,36,North,Family,2019-01-28,Online Ads
+C201,Sophie,Johnson,23,South,Professional,2021-08-25,Online Ads
+C202,Noah,Taylor,42,South,Professional,2022-04-23,Branch
+C203,Emily,White,23,South,Student,2024-04-12,Referral
+C204,Amira,Davies,33,South,Family,2023-01-21,Online Ads
+C205,Daniel,Green,72,North,Retired,2024-11-01,Branch
+C206,Maya,White,18,South,Student,2024-02-15,Branch
+C207,Noah,Khan,36,London,Professional,2022-11-12,Referral
+C208,Daniel,Patel,64,Midlands,Retired,2023-09-18,Branch
+C209,Hannah,Walker,31,South,Professional,2021-01-01,Social
+C210,Emily,Davies,47,London,Family,2023-10-04,Branch
+C211,Liam,Thompson,,Midlands,Professional,2023-09-14,Referral
+C212,Aisha,Davies,25,North,Professional,2019-07-19,Online Ads
+C213,Hannah,Davies,26,London,Professional,2021-08-17,Social
+C214,Grace,Hall,48,South,Family,2024-11-05,Online Ads
+C215,Daniel,Green,84,London,Retired,2024-07-23,Online Ads
+C216,Zara,Edwards,32,Midlands,Professional,2024-04-23,Online Ads
+C217,Emily,Thompson,85,South,Retired,2023-05-10,Online Ads
+C218,Priya,Thompson,40,North,Family,2019-06-11,Social
+C219,Maya,Green,44,North,Professional,2021-05-17,Social
+C220,James,White,77,South,Retired,2022-08-10,Referral
+C221,Mason,Roberts,54,Midlands,Professional,2024-04-07,Referral
+C222,Amira,Roberts,110,North,Professional,2023-09-07,Online Ads
+C223,Liam,Walker,49,North,Family,2024-07-02,Branch
+C224,Ethan,Taylor,20,South,Student,2019-08-29,Branch
+C225,Priya,Smith,42,Midlands,Family,2021-06-14,Branch
+C226,Jacob,Moore,,South,Retired,2023-08-12,Online Ads
+C227,Sophie,Green,81,North,Retired,2021-01-04,Online Ads
+C228,Emily,Davies,23,South,Student,2023-03-09,Social
+C229,Liam,Davies,28,London,Professional,2019-05-10,Online Ads
+C230,Mason,White,20,North,Student,2022-09-18,Branch
+C231,James,Edwards,83,North,Retired,2024-05-01,Online Ads
+C232,Sophie,Green,,North,Family,2021-04-28,Branch
+C233,Zara,Patel,47,South,Professional,2023-04-22,Referral
+C234,Priya,Edwards,34,Midlands,Family,2022-10-27,Referral
+C235,Jacob,Walker,75,Midlands,Retired,2024-07-02,Online Ads
+C236,Zara,Wright,24,South,Student,2021-10-06,Referral
+C237,Emily,Walker,52,South,Family,2019-01-22,Social
+C238,Sophie,Brown,25,North,Student,2020-02-28,Online Ads
+C239,Priya,Moore,,Midlands,Family,2023-08-22,Branch
+C240,Mason,Davies,52,North,Family,2022-01-04,Branch
+C241,Lucas,Evans,27,Midlands,Professional,2024-07-23,Branch
+C242,James,Williams,44,London,Professional,2022-09-11,Branch
+C243,Jacob,Williams,35,South,Professional,2023-06-20,Social
+C244,Leo,Hall,45,Midlands,Family,2020-04-11,Social
+C245,Mason,Taylor,57,South,Family,2022-04-08,Social
+C246,Lucas,White,22,Midlands,Student,2023-03-25,Online Ads
+C247,Leo,Hall,49,South,Professional,2023-01-12,Referral
+C248,Jacob,Patel,23,North,Student,2023-06-25,Social
+C249,Lucas,Brown,21,Midlands,Student,2024-08-11,Online Ads
+C250,Leo,Brown,28,London,Professional,2020-08-03,Online Ads
+C251,Amira,Edwards,51,Midlands,Professional,2019-10-03,Online Ads
+C252,James,Khan,38,South,Family,2024-10-14,Online Ads
+C253,Mason,Wright,67,North,Retired,2023-11-06,Branch
+C254,Amira,Thompson,41,Midlands,Family,2019-09-14,Branch
+C255,Mason,Taylor,30,North,Professional,2024-12-01,Social
+C256,Zara,Moore,45,North,Professional,2022-05-03,Social
+C257,Emily,Johnson,20,Midlands,Student,2023-05-11,Branch
+C258,Zara,Wright,20,South,Student,2020-07-28,Online Ads
+C259,Jacob,Smith,70,London,Retired,2024-09-01,Referral
+C260,Leo,Wright,38,Midlands,Family,2021-06-22,Online Ads
+C261,Mason,Thomas,25,Midlands,Student,2020-04-12,Online Ads
+C262,Ethan,Green,56,North,Family,2020-02-24,Referral
+C263,Liam,Thomas,63,North,Retired,2023-12-04,Social
+C264,Liam,Wilson,50,South,Family,2023-10-20,Online Ads
+C265,Amira,Wilson,45,South,Family,2022-04-13,Online Ads
+C266,Chloe,Brown,24,London,Student,2020-06-03,Referral
+C267,Emily,Johnson,53,London,Family,2022-01-05,Referral
+C268,Priya,Patel,46,South,Professional,2019-01-11,Social
+C269,Priya,Thompson,32,South,Family,2023-10-26,Social
+C270,Grace,Thomas,54,South,Professional,2019-07-18,Online Ads
+C271,Hannah,Khan,25,London,Student,2023-10-19,Online Ads
+C272,Emily,Thomas,22,London,Student,2019-12-04,Branch
+C273,Oliver,Smith,37,Midlands,Professional,2020-01-25,Online Ads
+C274,Emily,Hall,,South,Professional,2022-11-08,Social
+C275,Lucas,Williams,28,North,Professional,2022-07-07,Branch
+C276,Zara,Williams,110,South,Family,2020-11-03,Branch
+C277,Emily,Wright,41,Midlands,Family,2020-05-19,Branch
+C278,Lucas,Johnson,33,North,Family,2022-03-13,Referral
+C279,Noah,Wilson,48,South,Professional,2021-09-07,Branch
+C280,Leo,Moore,18,London,Student,2020-06-24,Branch
+C281,Lucas,Roberts,53,Noth,Professional,2019-03-10,Branch
+C282,Amira,Smith,67,London,Retired,2024-08-14,Referral
+C283,Zara,Patel,37,South,Family,2024-09-25,Social
+C284,Emily,Green,27,South,Professional,2021-09-04,Online Ads
+C285,Lucas,Brown,42,South,Professional,2020-12-20,Online Ads
+C286,Aisha,Taylor,39,Midlands,Professional,2022-01-05,Referral
+C287,Aisha,Johnson,32,Midlands,Family,2019-11-12,Branch
+C288,Daniel,White,60,North,Retired,2020-04-17,Online Ads
+C289,Daniel,Khan,47,Midlands,Professional,2019-05-25,Branch
+C290,Lucas,Davies,43,Midlands,Professional,2023-03-08,Online Ads
+C291,Daniel,Taylor,25,South,Professional,2024-03-20,Social
+C292,Noah,Johnson,23,Midlands,Student,2022-05-29,Referral
+C293,Ethan,Hall,79,London,Retired,2021-10-01,Online Ads
+C294,Aisha,Davies,110,South,Professional,2023-03-22,Social
+C295,James,Wilson,54,North,Professional,2020-08-06,Referral
+C296,Liam,Edwards,52,London,Professional,2020-01-27,Branch
+C297,Zara,Patel,36,North,Family,2022-07-14,Social
+C298,Grace,Johnson,35,North,Professional,2020-03-22,Online Ads
+C299,Hannah,Johnson,36,South,Professional,2020-05-06,Online Ads
+C300,Noah,Moore,23,London,Student,2022-12-28,Branch
+C301,Noah,Evans,53,North,Family,2021-10-20,Online Ads
+C302,Emily,Brown,21,London,Student,2023-03-05,Referral
+C303,Priya,Hall,,London,Family,2019-09-22,Online Ads
+C304,Emily,Patel,65,London,Retired,2019-07-27,Online Ads
+C305,Zara,White,20,South,Student,2022-01-31,Online Ads
+C306,Daniel,Moore,46,North,Family,2024-05-16,Online Ads
+C307,Emily,Wright,21,London,Student,2019-03-21,Social
+C308,Ethan,White,55,Midlands,Professional,2019-04-17,Online Ads
+C309,Sophie,Smith,50,Midlands,Family,2020-10-15,Online Ads
+C310,Sophie,Green,31,London,Family,2023-05-10,Branch
+C311,Oliver,Taylor,45,Midlands,Professional,2022-12-11,Social
+C312,Maya,Wilson,59,London,Family,2019-06-05,Online Ads
+C313,Liam,Khan,35,North,Professional,2020-12-27,Social
+C314,Grace,Smith,20,South,Student,2023-02-03,Social
+C315,Zara,Hall,20,Midlands,Student,2023-11-25,Referral
+C316,Grace,Taylor,50,South,Family,2020-12-19,Branch
+C317,Noah,Williams,24,North,Student,2019-05-13,Online Ads
+C318,Jacob,Davies,59,North,Family,2021-09-01,Online Ads
+C319,Priya,Johnson,38,Midlands,Professional,2020-03-18,Referral
+C320,Hannah,Wright,70,London,Retired,2023-03-18,Online Ads
+C321,Maya,Davies,18,North,Student,2020-03-04,Online Ads
+C322,Zara,Taylor,33,South,Family,2024-05-31,Referral
+C323,Oliver,Moore,58,North,Retired,2023-08-04,Referral
+C324,Mason,Evans,34,Midlands,Family,2024-07-03,Online Ads
+C325,Lucas,Patel,53,South,Professional,2020-11-30,Referral
+C326,Leo,Brown,54,Midlands,Professional,2023-05-07,Online Ads
+C327,Ethan,Taylor,52,Midlands,Professional,2019-09-10,Online Ads
+C328,James,Patel,54,London,Family,2019-09-07,Social
+C329,Lucas,Green,43,London,Family,2019-05-23,Branch
+C330,Maya,Moore,25,London,Student,2021-05-17,Social
+C331,Lucas,Patel,81,Midlands,Retired,2021-11-22,Online Ads
+C332,Priya,Patel,43,Midlands,Professional,2019-02-20,Referral
+C333,Chloe,Wright,19,North,Student,2020-02-18,Referral
+C334,Ethan,Wright,,South,Professional,2022-02-02,Branch
+C335,Zara,Smith,38,London,Professional,2022-01-05,Social
+C336,Noah,Thomas,29,Midlands,Professional,2022-05-15,Social
+C337,Grace,Evans,33,South,Family,2023-07-26,Referral
+C338,Ethan,Smith,42,Noth,Professional,2024-11-17,Social
+C339,Amira,Wilson,57,North,Family,2021-03-26,Online Ads
+C340,Chloe,Walker,29,North,Family,2024-01-02,Online Ads
+C341,Maya,Green,39,North,Professional,2022-03-13,Online Ads
+C342,Maya,Wilson,76,South,Retired,2024-10-03,Online Ads
+C343,Aisha,White,74,South,Retired,2022-06-05,Referral
+C344,Sophie,Wright,69,London,Retired,2024-11-02,Social
+C345,James,Khan,46,South,Professional,2022-03-03,Online Ads
+C346,Priya,Johnson,82,South,Retired,2022-05-08,Online Ads
+C347,Liam,Smith,53,London,Family,2019-04-15,Referral
+C348,Sophie,Wright,35,South,Professional,2024-12-29,Referral
+C349,Ethan,Edwards,34,North,Professional,2021-11-25,Referral
+C350,Oliver,Johnson,42,North,Family,2022-09-19,Branch
+C351,Hannah,Brown,27,London,Professional,2020-05-05,Social
+C352,Noah,Wright,20,London,Student,2024-02-18,Online Ads
+C353,Oliver,Patel,34,South,Professional,2024-01-26,Online Ads
+C354,Oliver,Hall,33,Midlands,Family,2023-10-25,Branch
+C355,Zara,Khan,23,North,Student,2024-12-15,Online Ads
+C356,Liam,Davies,36,Midlands,Family,2022-06-07,Online Ads
+C357,Noah,Thomas,44,South,Professional,2020-07-02,Online Ads
+C358,Ethan,Wilson,,London,Student,2021-07-07,Referral
+C359,Aisha,Hall,25,North,Professional,2024-12-30,Referral
+C360,Daniel,Brown,35,North,Family,2021-11-01,Branch
+C361,Aisha,Thomas,40,North,Professional,2023-09-12,Social
+C362,Jacob,Brown,54,London,Professional,2021-12-13,Social
+C363,Ethan,Wright,54,Noth,Professional,2024-05-22,Online Ads
+C364,Priya,Brown,37,South,Family,2019-11-04,Referral
+C365,Sophie,Davies,39,London,Professional,2020-12-16,Social
+C366,Ethan,Johnson,,North,Professional,2020-07-20,Referral
+C367,Ethan,Thompson,78,Midlands,Retired,2021-01-19,Online Ads
+C368,Hannah,Evans,58,South,Family,2020-11-14,Online Ads
+C369,Daniel,Taylor,25,London,Student,2021-01-12,Referral
+C370,Jacob,Khan,78,London,Retired,2024-06-22,Online Ads
+C371,Daniel,Patel,37,Midlands,Professional,2022-10-17,Branch
+C372,Jacob,Brown,53,South,Professional,2023-04-26,Online Ads
+C373,Jacob,Smith,25,London,Student,2019-11-03,Referral
+C374,Grace,Evans,24,North,Student,2024-02-24,Branch
+C375,Priya,White,12,North,Professional,2023-08-16,Online Ads
+C376,Priya,Moore,83,South,Retired,2024-02-12,Social
+C377,Daniel,Davies,58,Midlands,Family,2024-01-28,Online Ads
+C378,Liam,Khan,41,London,Professional,2020-03-11,Online Ads
+C379,Emily,Wright,21,South,Student,2021-06-02,Branch
+C380,Grace,Brown,35,North,Family,2024-08-27,Online Ads
+C381,Chloe,Smith,58,Midlands,Family,2020-12-26,Referral
+C382,Emily,Brown,43,South,Professional,2021-10-13,Online Ads
+C383,Noah,Thompson,60,North,Family,2022-07-09,Referral
+C384,Amira,Wilson,45,South,Professional,2020-12-29,Branch
+C385,Grace,Brown,54,South,Family,2024-12-26,Online Ads
+C386,Aisha,Edwards,18,Midlands,Student,2020-10-21,Social
+C387,Emily,Smith,30,Midlands,Family,2021-07-07,Referral
+C388,Liam,Edwards,46,London,Family,2023-04-12,Branch
+C389,Grace,Green,21,South,Student,2023-12-20,Social
+C390,Ethan,Hall,35,South,Professional,2019-11-02,Online Ads
+C391,Chloe,Brown,39,Midlands,Professional,2021-11-10,Online Ads
+C392,Emily,Smith,18,Midlands,Student,2022-05-18,Branch
+C393,Ethan,Patel,42,Midlands,Family,2024-08-31,Online Ads
+C394,Zara,Patel,44,London,Professional,2024-12-12,Branch
+C395,Aisha,Brown,43,Midlands,Family,2022-08-07,Branch
+C396,James,Walker,24,South,Professional,2023-03-16,Branch
+C397,Leo,Smith,43,South,Professional,2020-11-16,Social
+C398,Mason,Khan,41,North,Family,2020-03-01,Online Ads
+C399,Lucas,Patel,57,North,Family,2019-10-28,Online Ads
+C400,Mason,Patel,44,Noth,Family,2023-07-15,Branch
