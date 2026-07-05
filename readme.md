@@ -1,4 +1,4 @@
-# The Data Drop  
+# The Data Drop - Update coming
 Turning messy data into real decisions
 
 Welcome, developers and data folk. You have been drafted into a cross functional product team for a very important client. They are sitting on a mountain of data and want answers, insight and useful tools, not just pretty charts.
